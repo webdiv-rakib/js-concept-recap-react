@@ -21,3 +21,6 @@ console.log(specificName);
 // 4.   find
 const special = products.find(product => product.name.includes("a"));
 console.log(special);
+
+const x = products[0];
+console.log(x);
